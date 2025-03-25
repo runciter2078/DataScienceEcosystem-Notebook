@@ -1,6 +1,6 @@
 # Data Science Ecosystem Notebook
 
-This repository contains a Jupyter Notebook named **DataScienceEcosystem.ipynb** that provides a concise overview of the Data Science ecosystem. The notebook includes sections on popular programming languages, libraries, and tools used in Data Science, as well as simple arithmetic and conversion examples using Python.
+This repository was uploaded as part of a practical assignment for the IBM Data Science Professional Certificate program on Coursera (https://www.coursera.org/professional-certificates/ibm-data-science). It contains the Jupyter Notebook **DataScienceEcosystem.ipynb**, which provides a concise overview of the Data Science ecosystem. The notebook is structured into sections covering popular programming languages, commonly used libraries, and essential tools in Data Science, along with code examples that demonstrate basic arithmetic operations and time conversions in Python. Additionally, the repository includes screenshots of the notebook’s output, serving as a comprehensive reference for the fundamental components of the Data Science workflow.
 
 ## Overview
 
